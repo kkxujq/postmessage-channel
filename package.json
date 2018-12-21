@@ -1,0 +1,19 @@
+{
+  "name": "postmessage-channel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkxujq/postmessage-channel.git"
+  },
+  "author": "kkxujq@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkxujq/postmessage-channel/issues"
+  },
+  "homepage": "https://github.com/kkxujq/postmessage-channel#readme"
+}
